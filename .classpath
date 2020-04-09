@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chapter-02"/>
+	<classpathentry kind="src" path="chapter-03"/>
+	<classpathentry kind="src" path="chapter-04"/>
+	<classpathentry kind="src" path="chapter-05"/>
+	<classpathentry kind="src" path="chapter-06"/>
+	<classpathentry kind="src" path="chapter-07"/>
+	<classpathentry kind="src" path="chapter-08"/>
+	<classpathentry kind="src" path="chapter-09"/>
+	<classpathentry kind="src" path="chapter-15"/>
+	<classpathentry kind="src" path="chapter-17"/>
+	<classpathentry kind="src" path="chapter-18"/>
+	<classpathentry kind="src" path="chapter-19"/>
+	<classpathentry kind="src" path="chapter-20"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
